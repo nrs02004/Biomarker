@@ -1,1 +1,1 @@
-# Biomarker
+# Slides for the High Dimensional Biomarker short course 
